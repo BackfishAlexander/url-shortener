@@ -1,0 +1,32 @@
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  .shortener-card {
+    max-width: 500px;
+    margin: 20px auto;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+
+  .output {
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  .errorOutput {
+    padding: 10px;
+    font-weight: bold;
+    color: red;
+  }
